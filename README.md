@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on my personal website and Arduino UNO devices.
+- 🌱 I’m currently learning React and Arduino.
+- 💬 Ask me about game design, UI/UX design, and education technologies.
