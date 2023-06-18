@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 ### 👋 Hi! I'm Vincent Langlois. I'm a software engineer who loves to learn.
 - 🔭 I’m currently working on my personal website and Arduino UNO devices.
 - 🌱 I’m currently learning React and Arduino.
-- 💬 Ask me about game design, UI/UX design, and education technologies.
+- 💬 Ask me about programming, game design, UI/UX design, and education technologies.
