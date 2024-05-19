@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 👋 Hi! I'm Vincent Langlois. I'm a software engineer who loves to learn.
+# 👋 Hi! I'm Vincent Langlois. I'm a software engineer who loves to learn.
+- 🏢 I'm currently working at Eli Lilly, developing and maintaining software products.
 - 🔭 I’m currently working on my personal website and Arduino UNO devices.
 - 🌱 I’m currently learning Web Development and Arduino.
 - 💬 Ask me about programming, game design, UI/UX design, and education technologies.
