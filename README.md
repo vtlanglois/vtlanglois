@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 -->
 # 👋 Hi! I'm Vincent Langlois.         I'm a software engineer who loves to learn.
 - 🏢 I'm currently working at Eli Lilly, developing and maintaining software products.
-- 🔭 I’m currently working on my personal website and Arduino UNO devices.
-- 🌱 I’m currently learning Web Development and Arduino.
-- 💬 Ask me about programming, game design, UI/UX design, and education technologies.
+- 🔭 I’m currently working on my personal website and small coding doodles in my free time.
+- 🌱 I’m currently learning Web Development, Accessibility, CD/CI, and more!
+- 💬 Ask me about programming, game design, UI/UX design, accessibility, and education technologies.
